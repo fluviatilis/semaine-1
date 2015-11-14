@@ -2,7 +2,7 @@
 #Yann LM
 Salut je me prénomme _Yann_  
 Je suis actuellement au chomâge et donc disponible pour apprendre    
-#Expèriences professionnelles
+#Expériences professionnelles
 *Surveillant externat  
 *Animateur d'atelier pour enfants en difficultés  
 *Pilote machine à La Poste  
