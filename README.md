@@ -1,7 +1,7 @@
 # semaine-1
 #Yann LM
 Salut je me prénomme _Yann_  
-Je suis actuellement au chomâge et donc disponible pour apprendre 
+Je suis actuellement au chomâge, période propice pour se former. 
 
 #Expériences professionnelles
 * Surveillant externat  
